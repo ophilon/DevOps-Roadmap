@@ -71,7 +71,7 @@ One easy-to-start distribution is **Ubuntu**.
 
 In addition, you need to know **scripting** to automate tasks for development and operations. 
 
-Here you can learn OS-specific languages, such as **Bash or Powershell**, or independent, like Python or Go.
+Here you can learn OS-specific languages, such as **Bash** or **Powershell**, or independent, like Python or Go.
 
 Resources:
 
