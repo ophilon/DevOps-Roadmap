@@ -2,6 +2,8 @@
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
+If you want to learn more about DevOps, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
+
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember that hype and trendy do not always mean best suited for the job.
@@ -157,7 +159,7 @@ Resources:
 
 Sometimes referred to as **IaC**, it refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows Engineers to automate environment setup and teardown. Accelerates and de-risks deployment by provisioning gold copy environments on demand.
 
-**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansimble, Chef, Puppet, and Vagrant.
+**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
 Here you need to know how to do **infrastructure provisioning** and **configuration management**.
 
